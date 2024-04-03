@@ -38,7 +38,7 @@
 | [이정철](https://github.com/tree4553)<br>(BE, 팀장)| [윤승현](https://github.com/YoonSeungHyun2)<br>(BE)| [이동엽](https://github.com/DONGYEOPME)<br>(BE)|
 |:----------------:|:----------------:|:----------------:|
 | <img src='https://github.com/codestates-seb/seb43_main_032/assets/118104644/c7196590-120f-4ac8-9709-7f91287dda76' width='100'/> | <img src='https://github.com/codestates-seb/seb43_main_032/assets/118104644/1126e3b3-463b-49ec-af61-7c6ed2466206' width='100'/> | <img src='https://github.com/codestates-seb/seb43_main_032/assets/118104644/88ccee4c-ee61-41fe-a2e6-4d2ca61e0b09' width='100'/> |
-|<p align="left">- 프로젝트<br/>- JWT<br/>- OAuth2<br/>- Router 53</p>|<p align="left">- 답글,댓글,좋아요<br>기능<br/>- S3<br/>- Swagger</p>|<p align="left">- 유저<br/>- 커뮤니티<br/>- RDS<br/>- Docker|
+|<p align="left">- 프로젝트<br/>- JWT<br/>- OAuth2<br/>- Router 53</p>|<p align="left">- 유저<br/>- Docker<br/>- S3<br/>- RDS</p>|<p align="left">- 답글,댓글,좋아요<br/>- 커뮤니티<br/>- Swagger<br/>|
 
 
 <br>
